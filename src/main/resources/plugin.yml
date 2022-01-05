@@ -1,0 +1,11 @@
+name: TntRun
+version: '${project.version}'
+main: lemmensthijmen.tntrun.TntRun
+api-version: 1.17
+commands:
+  reset:
+    description: Hard reset
+  tnt:
+    description: area commands\
+  test:
+    description: test

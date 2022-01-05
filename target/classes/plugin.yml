@@ -1,0 +1,11 @@
+name: TntRun
+version: '1.0-SNAPSHOT'
+main: lemmensthijmen.tntrun.TntRun
+api-version: 1.17
+commands:
+  reset:
+    description: Hard reset
+  tnt:
+    description: area commands\
+  test:
+    description: test
